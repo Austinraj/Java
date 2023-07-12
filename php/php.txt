@@ -1,0 +1,2 @@
+today php learn somthink
+first of all php:hypertext preprocessor
